@@ -29,3 +29,4 @@ My experience is learning javascript from a [book](https://learn.javascript.ru/)
 ---
 8) **Language Skills:** My English level is B2. I finished a school of International Business Communications (Courses of foreign Languages)
 and have the dimploma that confirms it. I`ve reached a B2 level in such aspects as reading, listening, speaking and grammar.
+
